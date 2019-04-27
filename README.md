@@ -7,5 +7,5 @@ $ pkg update upgrade
 $ pkg install git python2 toilet figlet php 
 $ git clone https://github.com/pangeran151/SPAM_TSEL 
 $ cd SPAM_TSEL ``` 
-$ ls sh SPAMTSEL.sh
+$ sh SPAMTSEL.sh
 # PERINGATAN KAMI HANYA MENYEDIAKAN TOOLS UNTUK TUJUAN KEBAIKAN BUKAN DISALAHKAN GUNAKAN UNTUK MENJAHILI SESEORANG SEGALA SESUATU DI TANGGUNG PENGGUNA
