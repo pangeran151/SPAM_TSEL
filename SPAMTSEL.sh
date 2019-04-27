@@ -61,7 +61,7 @@ sleep 1
 echo "Pangeran Ganteng"
 echo "\033[30;1m tunggu 8 detik"
 sleep 8
-sh litespam.sh
+sh SPAMTSEL.sh
 fi
 
 
