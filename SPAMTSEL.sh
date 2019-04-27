@@ -8,7 +8,7 @@ clear
 
 toilet -f slant --gay "SPAM_TSEL"
 sleep 1
-echo "\033[33;1m Macam-macam tool untuk spam"
+echo "\033[33;1m Tools spam_tsel semoga bermanfaat"
 sleep 1
 echo "\033[36;1m""\033[34;1mPangeran Ganteng""\033[36;1m"
 sleep 1
