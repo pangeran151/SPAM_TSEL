@@ -32,7 +32,7 @@ echo "\033[31;1mAuthor:""\033[37;1mDanz"
 sleep 5
 clear
 cd $HOME/LITESPAM/Tul/
-php 1.php
+php 2.php
 fi
 
 if
