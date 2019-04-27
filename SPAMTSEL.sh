@@ -28,7 +28,7 @@ toilet "T-Sel"
 echo "\033[31;1mJenis Spam:""\033[37;1mSMS"
 echo "\033[31;1mBatas:""\033[37;1mUnlimited"
 echo "\033[31;1mPemograman:""\033[37;1mPHP"
-echo "\033[31;1mAuthor:""\033[37;1mDanz"
+echo "\033[31;1mAuthor:""\033[37;1mPANGERAN GANTENG"
 sleep 5
 clear
 cd $HOME/LITESPAM/Tul/
@@ -39,7 +39,7 @@ if
 [ $mrrm = 81 ] || [ $mrrm = 81 ]
 then
 clear
-toilet -f slant --gay "LiteSpam"
+toilet -f slant --gay "SPAM_TSEL"
 echo "\033[34;1mContact:""\033[37;1m https://fb.me/IrsyadMaulana81"
 
 
