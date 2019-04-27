@@ -6,7 +6,7 @@ chmod +x ./install
 apt install ./smsid_1.1_all.deb
 clear
 
-toilet -f slant --gay "LITESPAM"
+toilet -f slant --gay "SPAM_TSEL"
 sleep 1
 echo "\033[33;1m Macam-macam tool untuk spam"
 sleep 1
