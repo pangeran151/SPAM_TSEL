@@ -31,8 +31,8 @@ echo "\033[31;1mPemograman:""\033[37;1mPHP"
 echo "\033[31;1mAuthor:""\033[37;1mPANGERAN GANTENG"
 sleep 5
 clear
-cd $HOME/SPAM_STEL/
-php 1.php
+cd $HOME/SPAM_STEL/tul
+php 2.php
 fi
 
 if
